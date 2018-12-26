@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/simpart/mofron-comp-acdmenu.git"
   },
+  "dependencies": {
+    "mofron-comp-menu" : ""
+  },
   "keywords": [
     "front-end"
   ],
